@@ -1,4 +1,5 @@
 # Projekt sieci
+![Schemat z CPT](https://raw.githubusercontent.com/asdfMaciej/projekt-sieci/master/Za%C5%82%C4%85czniki/Grafika/calosc%20legenda.png)    
 Wykonany w trzyosobowej grupie na przełomie nieco ponad tygodnia. Projekt ma charakter edukacyjny. 
 
 ## Cel projektu
